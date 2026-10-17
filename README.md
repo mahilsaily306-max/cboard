@@ -161,3 +161,5 @@ This program is free software: you can redistribute it and/or modify it under th
 - Code - [GPLv3](https://github.com/cboard-org/cboard/blob/master/LICENSE.txt)
 - Mulberry Symbols - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - ARASAAC Symbols - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<!-- Contribution by mahilsaily306-max for Kestra Hacktoberfest 2026 -->
